@@ -24,6 +24,6 @@
     "demo/"
   ],
   "dependencies": {
-    "sass-flex-mixin": "~1.0.1"
+    "sass-flex-mixin": "~1.0.3"
   }
 }
